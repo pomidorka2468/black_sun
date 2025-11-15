@@ -1,6 +1,5 @@
 import os
 
-
 sections = {
   0: {
     "text":         "Welcome To The 'Reiter der Schwarzen Sonne'!\nAuthor: Swen Harder\nProgrammer: Danil Kryvonosov",
